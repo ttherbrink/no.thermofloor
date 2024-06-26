@@ -3254,8 +3254,8 @@
         "security": [
           "none"
         ],
-        "zwaveAllianceProductId": 3331,
-        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/ProductManual/File?folder=&filename=Manuals/3331/SR-ZV9040A-A%20Micro%20Smart%20Dimmer.pdf",
+        "zwaveAllianceProductId": 3261,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3261",
         "learnmode": {
           "image": "/drivers/Z-Dim/assets/learnmode.svg",
           "instruction": {
@@ -5160,6 +5160,8 @@
         "security": [
           "none"
         ],
+        "zwaveAllianceProductId": 3818,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3818",
         "learnmode": {
           "image": "/drivers/Z-Repeater/assets/learnmode.svg",
           "instruction": {
@@ -5221,8 +5223,8 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "https://products.z-wavealliance.org/ProductManual/File?folder=&filename=product_documents/3933/HeatitZ-SmokeDetector230V.pdf",
-        "pid": 3933,
+        "zwaveAllianceProductId": 3933,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3933",
         "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=3933&which=21",
         "learnmode": {
           "image": "/drivers/Z-Smoke-AC/assets/learnmode.svg",
@@ -5293,8 +5295,9 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "https://media.heatit.com/1757",
-        "imageRemotePath": "https://kodeo-heatit.imgix.net/1547-heatit-z-smoke-battery-packshot-4248418247.jpg",
+        "zwaveAllianceProductId": 4064,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4064",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=4064&which=21",
         "learnmode": {
           "image": "/drivers/Z-Smoke-battery/assets/learnmode.svg",
           "instruction": {
@@ -5402,8 +5405,8 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "https://products.z-wavealliance.org/ProductManual/File?folder=&filename=product_documents/3860/Manual_Heatit_Z-Temp2_FW%201.1_Ver2020-A_ENG.pdf",
-        "pid": 3860,
+        "zwaveAllianceProductId": 3860,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3860",
         "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=3860&which=21",
         "learnmode": {
           "image": "/drivers/Z-TEMP2/assets/learnmode.svg",
@@ -5840,9 +5843,9 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "https://products.z-wavealliance.org/ProductManual/File?folder=&filename=Manuals/3065/Manual_Heatit_Z-TRM2fx_ENG_3.1.pdf",
-        "pid": 3065,
-        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/Index?productName=ZC10-18116305",
+        "zwaveAllianceProductId": 3065,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3065",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=3065&which=21",
         "learnmode": {
           "image": "/drivers/Z-TRM2fx/assets/learnmode.svg",
           "instruction": {
@@ -6623,8 +6626,8 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "https://products.z-wavealliance.org/ProductManual/File?folder=&filename=product_documents/3802/Manual_Heatit_Z-TRM3_FW%204.0%20Ver2020-A_ENG.pdf",
-        "pid": 3802,
+        "zwaveAllianceProductId": 3802,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3802",
         "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=3802&which=21",
         "learnmode": {
           "image": "/drivers/Z-TRM3/assets/learnmode.svg",
@@ -7345,16 +7348,19 @@
       "zwave": {
         "manufacturerId": 411,
         "productTypeId": [
-          48
+          48,
+          50
         ],
         "productId": [
-          12289
+          12289,
+          12801
         ],
         "security": [
           "none"
         ],
-        "zwaveAllianceProductId": 4666,
-        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4666",
+        "zwaveAllianceProductId": 4908,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4908",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=4908&which=10",
         "learnmode": {
           "image": "/drivers/Z-TRM6/assets/learnmode.svg",
           "instruction": {
@@ -8171,9 +8177,9 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "",
-        "pid": 3065,
-        "imageRemotePath": "",
+        "zwaveAllianceProductId": 3102,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3102",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=3102&which=21",
         "learnmode": {
           "image": "/drivers/Z-Water/assets/learnmode.svg",
           "instruction": {
@@ -8825,10 +8831,9 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "",
         "zwaveAllianceProductId": 4898,
         "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4898",
-        "imageRemotePath": "",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=4898&which=10",
         "learnmode": {
           "image": "/drivers/Z-Water2/assets/learnmode.svg",
           "instruction": {
@@ -9294,9 +9299,9 @@
         "security": [
           "none"
         ],
-        "productDocumentation": "",
-        "pid": 9999,
-        "imageRemotePath": "",
+        "zwaveAllianceProductId": 3828,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3828",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=3828&which=21",
         "learnmode": {
           "image": "/drivers/Z-push-button-4/assets/learnmode.svg",
           "instruction": {
@@ -9378,6 +9383,8 @@
         "security": [
           "none"
         ],
+        "zwaveAllianceProductId": 3595,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/3595",
         "productDocumentation": "",
         "pid": 9999,
         "imageRemotePath": "",
@@ -9471,6 +9478,8 @@
         "security": [
           "none"
         ],
+        "zwaveAllianceProductId": 4028,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4028",
         "learnmode": {
           "image": "/drivers/Z-push-wall-controller/assets/learnmode.svg",
           "instruction": {
@@ -9651,6 +9660,7 @@
         ],
         "zwaveAllianceProductId": 4802,
         "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4802",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=4802&which=10",
         "learnmode": {
           "image": "/drivers/ZM-Dimmer/assets/learnmode.svg",
           "instruction": {
@@ -10103,6 +10113,9 @@
         "security": [
           "none"
         ],
+        "zwaveAllianceProductId": 4062,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4062",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=4062&which=21",
         "learnmode": {
           "image": "/drivers/ZM-Single-Relay-16A/assets/learnmode.svg",
           "instruction": {
@@ -10453,6 +10466,9 @@
         "security": [
           "none"
         ],
+        "zwaveAllianceProductId": 4305,
+        "zwaveAllianceProductDocumentation": "https://products.z-wavealliance.org/products/4305",
+        "imageRemotePath": "https://products.z-wavealliance.org/ProductImages/ProductImage?prod=4305&which=21",
         "learnmode": {
           "image": "/drivers/ZM-Thermostat-16A/assets/learnmode.svg",
           "instruction": {
